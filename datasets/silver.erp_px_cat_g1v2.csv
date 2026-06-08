@@ -1,0 +1,38 @@
+id,cat,subcat,maintenance,dwh_create_date
+AC_BR,Accessories,Bike Racks,yes,2026-06-04 19:08:11
+AC_BS,Accessories,Bike Stands,no,2026-06-04 19:08:11
+AC_BC,Accessories,Bottles and Cages,no,2026-06-04 19:08:11
+AC_CL,Accessories,Cleaners,yes,2026-06-04 19:08:11
+AC_FE,Accessories,Fenders,no,2026-06-04 19:08:11
+AC_HE,Accessories,Helmets,yes,2026-06-04 19:08:11
+AC_HP,Accessories,Hydration Packs,no,2026-06-04 19:08:11
+AC_LI,Accessories,Lights,yes,2026-06-04 19:08:11
+AC_LO,Accessories,Locks,yes,2026-06-04 19:08:11
+AC_PA,Accessories,Panniers,no,2026-06-04 19:08:11
+AC_PU,Accessories,Pumps,yes,2026-06-04 19:08:11
+AC_TT,Accessories,Tires and Tubes,yes,2026-06-04 19:08:11
+BI_MB,Bikes,Mountain Bikes,yes,2026-06-04 19:08:11
+BI_RB,Bikes,Road Bikes,yes,2026-06-04 19:08:11
+BI_TB,Bikes,Touring Bikes,yes,2026-06-04 19:08:11
+CL_BS,Clothing,Bib-Shorts,no,2026-06-04 19:08:11
+CL_CA,Clothing,Caps,no,2026-06-04 19:08:11
+CL_GL,Clothing,Gloves,no,2026-06-04 19:08:11
+CL_JE,Clothing,Jerseys,no,2026-06-04 19:08:11
+CL_SH,Clothing,Shorts,no,2026-06-04 19:08:11
+CL_SO,Clothing,Socks,no,2026-06-04 19:08:11
+CL_TI,Clothing,Tights,no,2026-06-04 19:08:11
+CL_VE,Clothing,Vests,no,2026-06-04 19:08:11
+CO_BB,Components,Bottom Brackets,yes,2026-06-04 19:08:11
+CO_BR,Components,Brakes,yes,2026-06-04 19:08:11
+CO_CH,Components,Chains,yes,2026-06-04 19:08:11
+CO_CS,Components,Cranksets,yes,2026-06-04 19:08:11
+CO_DE,Components,Derailleurs,yes,2026-06-04 19:08:11
+CO_FO,Components,Forks,yes,2026-06-04 19:08:11
+CO_HB,Components,Handlebars,no,2026-06-04 19:08:11
+CO_HS,Components,Headsets,no,2026-06-04 19:08:11
+CO_MF,Components,Mountain Frames,yes,2026-06-04 19:08:11
+CO_PD,Components,Pedals,no,2026-06-04 19:08:11
+CO_RF,Components,Road Frames,yes,2026-06-04 19:08:11
+CO_SA,Components,Saddles,no,2026-06-04 19:08:11
+CO_TF,Components,Touring Frames,yes,2026-06-04 19:08:11
+CO_WH,Components,Wheels,yes,2026-06-04 19:08:11
